@@ -12,3 +12,11 @@ All Ideas and MVP Modules Here
   - [ ] URL Shortner Module
   - [ ] QR & NFC Module 
   - [ ] Contacts Network
+
+## Project Location
+
+  * URL Shortner 
+      * Frontend - https://github.com/ashwath007/gobytest1-shortner
+      * Backend  - gobytest1-shortner-server
+
+  * 
