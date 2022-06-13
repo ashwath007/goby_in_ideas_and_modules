@@ -16,7 +16,7 @@ All Ideas and MVP Modules Here
 ## Project Location
 
   * URL Shortner 
-      * Frontend - [https://github.com/ashwath007/gobytest1-shortner](https://github.com/ashwath007/gobytest1-shortner)
-      * Backend  - [gobytest1-shortner-server](https://github.com/ashwath007/gobytest1-shortner-server)
+      * Frontend - [goBy.in URL Shortner](https://github.com/ashwath007/gobytest1-shortner)
+      * Backend  - [goBy.in URL Shortner Server](https://github.com/ashwath007/gobytest1-shortner-server)
 
   * 
