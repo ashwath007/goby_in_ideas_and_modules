@@ -20,3 +20,11 @@ All Ideas and MVP Modules Here
       * Backend  - [goBy.in URL Shortner Server](https://github.com/ashwath007/gobytest1-shortner-server)
 
   * 
+
+
+
+## Animation & Themes Designs
+
+  * Remotion    - [Remotion  Docs](https://www.remotion.dev/docs/)
+  * Three Fiber - [Three Fiber](https://animejs.com/documentation/)
+  * Anime JS    - [Anime js](https://animejs.com/documentation/)
