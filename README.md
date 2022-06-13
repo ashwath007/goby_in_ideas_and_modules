@@ -7,3 +7,8 @@ All Ideas and MVP Modules Here
   * QR Code and NFC Card for user's profile and business
   * User profile contacts
 
+## Modules
+
+  * URL Shortner Module   - []
+  * QR & NFC Module       - []
+  * Contacts Network      - []
