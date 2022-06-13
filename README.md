@@ -9,6 +9,6 @@ All Ideas and MVP Modules Here
 
 ## Modules
 
-  - [x] URL Shortner Module
+  - [ ] URL Shortner Module
   - [ ] QR & NFC Module 
   - [ ] Contacts Network
