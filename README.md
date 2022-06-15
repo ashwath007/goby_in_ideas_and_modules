@@ -20,7 +20,7 @@ All Ideas and MVP Modules Here
       * Backend  - [goBy.in URL Shortner Server](https://github.com/ashwath007/gobytest1-shortner-server)
 
       - Project URL 
-           - [ * ] Frontend  -   https://goby.netlify.app/
+           - [-] Frontend  -   https://goby.netlify.app/
            - [ ]   Backend   -   https://goby-in-shortner.herokuapp.com/api
             
       @ Deployment Details
