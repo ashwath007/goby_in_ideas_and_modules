@@ -1,6 +1,12 @@
 # goby_in_ideas_and_modules
 All Ideas and MVP Modules Here
 
+
+## Market Research
+
+  * Market Research (General) - https://docs.google.com/document/d/1vGLt2y0-hLkswf7WfunLbfNNQZiS7n7_C4QyMIlU890/edit?usp=sharing
+  * Market Research (Link In Bio Space) - https://docs.google.com/document/d/1NaTkzQig3G5OSn6WrssoVJNlwJdhh3UfEoFnsa1BFrg/edit?usp=sharing
+
 ## Ideas
   
   * URL Shortner
