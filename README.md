@@ -13,6 +13,11 @@ All Ideas and MVP Modules Here
   - [ ] QR & NFC Module 
   - [ ] Contacts Network
 
+  ### Functionality Module
+ 
+  - [ ] Static File Upload to Google Cloud Storage
+
+
 ## Project Location
 
   * URL Shortner 
