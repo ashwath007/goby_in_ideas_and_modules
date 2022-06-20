@@ -11,7 +11,9 @@ All Ideas and MVP Modules Here
   
   * URL Shortner
   * QR Code and NFC Card for user's profile and business
-  * User profile contacts
+  * User profile contacts - (Network) Module
+  * Server Side Style Rendering Module
+  * 
 
 ## Modules
 
