@@ -13,7 +13,7 @@ All Ideas and MVP Modules Here
   * QR Code and NFC Card for user's profile and business
   * User profile contacts - (Network) Module
   * Server Side Style Rendering Module
-  * 
+  * File, Image and All Static file Upload Module
 
 ## Modules
 
