@@ -8,17 +8,11 @@ All Ideas and MVP Modules Here
   * Market Research (Link In Bio Space) - https://docs.google.com/document/d/1NaTkzQig3G5OSn6WrssoVJNlwJdhh3UfEoFnsa1BFrg/edit?usp=sharing
   
   
-## Timeline 
+## Module Timeline 
 
-  * 
-
-## {{Date}}: TITLE
-
-MARKDOWN BODY
-
-## {{Date}}--{{Date}}: TITLE
-
-MARKDOWN BODY
+  * {{1 July}}--{{2 July}}: Static File Upload
+  * {{1 July}}--{{3 July}}: Style Server Rendering
+  
 
 ## Ideas
   
