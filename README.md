@@ -6,6 +6,19 @@ All Ideas and MVP Modules Here
 
   * Market Research (General) - https://docs.google.com/document/d/1vGLt2y0-hLkswf7WfunLbfNNQZiS7n7_C4QyMIlU890/edit?usp=sharing
   * Market Research (Link In Bio Space) - https://docs.google.com/document/d/1NaTkzQig3G5OSn6WrssoVJNlwJdhh3UfEoFnsa1BFrg/edit?usp=sharing
+  
+  
+## Timeline 
+
+  * 
+
+## {{Date}}: TITLE
+
+MARKDOWN BODY
+
+## {{Date}}--{{Date}}: TITLE
+
+MARKDOWN BODY
 
 ## Ideas
   
@@ -14,6 +27,7 @@ All Ideas and MVP Modules Here
   * User profile contacts - (Network) Module
   * Server Side Style Rendering Module
   * File, Image and All Static file Upload Module
+  * Multi-profiling module
 
 ## Modules
 
