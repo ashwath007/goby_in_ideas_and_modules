@@ -11,12 +11,10 @@ All Ideas and MVP Modules Here
 ## Module Timeline 
 
   Build Microservice - 'STATIC' 
-  * #{{1 July}}--{{2 July}}: Static File Upload
-  * #{{1 July}}--{{3 July}}: Style Server Rendering
+  * 1 July -- 2 July: Static File Upload
+  * 1 July -- 3 July: Style Server Rendering
   
-  Build Microservice - 'STATIC' 
-  * #{{1 July}}--{{2 July}}: Static File Upload
-  * #{{1 July}}--{{3 July}}: Style Server Rendering
+  
 
 ## Ideas
   
