@@ -40,8 +40,8 @@ All Ideas and MVP Modules Here
       * Backend  - [goBy.in URL Shortner Server](https://github.com/ashwath007/gobytest1-shortner-server)
       
        - Project URL 
-           - [ ]   Frontend  -   https://goby.netlify.app/
-           - [ ]   Backend   -   https://goby-in-shortner.herokuapp.com/api
+           - [ ]   Frontend  -   [https://goby.netlify.app/](https://gobyin-url-shortner.netlify.app/)
+           - [ ]   Backend   -   [https://goby-in-shortner.herokuapp.com](https://goby-in-shortner-server-v1.onrender.com/)/api
 
   * QR Gen / Scan
      
