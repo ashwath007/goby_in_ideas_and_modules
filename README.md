@@ -10,10 +10,7 @@ All Ideas and MVP Modules Here
   
 ## Module Timeline 
 
-  Build Microservice - 'STATIC' 
-  * 1 July -- 2 July: Static File Upload
-  * 1 July -- 3 July: Style Server Rendering
-  
+  Build Microservice
   
 
 ## Ideas
@@ -41,10 +38,13 @@ All Ideas and MVP Modules Here
   * URL Shortner 
       * Frontend - [goBy.in URL Shortner](https://github.com/ashwath007/gobytest1-shortner)
       * Backend  - [goBy.in URL Shortner Server](https://github.com/ashwath007/gobytest1-shortner-server)
-
-      - Project URL 
+      
+       - Project URL 
            - [ ]   Frontend  -   https://goby.netlify.app/
            - [ ]   Backend   -   https://goby-in-shortner.herokuapp.com/api
+
+  * QR Gen / Scan
+     
             
       @ Deployment Details
 
